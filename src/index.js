@@ -16,7 +16,7 @@ const testFunction =()=> {
           <div>
              <h1 style = {styleArgument} >
               <center>
-                <img src={star} alt="yt. logo" ></img>Yanting's Blog<img src={star} alt="yt. logo"></img>
+                <img src={star} alt="yt. logo" ></img>Yanting's Blog<img src={star} alt="yt. logo"/>
               </center>
             </h1>
           </div>
@@ -87,7 +87,7 @@ const testFunction =()=> {
                 </li>
                 <li>
                    <form>
-                    按下按鈕   <button>重新整理???</button>
+                    按下按鈕   <button value="true">重新整理???</button>
                   </form>
                 </li>
                
